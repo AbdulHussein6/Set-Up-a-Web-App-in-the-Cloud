@@ -175,14 +175,6 @@ I edited index.jsp by changing the content via VS Code with my own text.
 
 ![Image](https://nextwork.ai/authentic_blue_lucky_ferret/uploads/b71d29bd-8a1b-5fe0-9572-1c575423d558_7a1de541)
 
-## Using nano
-
-### Additional improvements
-
-### Terminal vs IDE
-
-### Verifying my work
-
 ---
 
 *Built with [NextWork](https://nextwork.ai) - [View this project](https://nextwork.ai/projects/b71d29bd-8a1b-5fe0-9572-1c575423d558)*
